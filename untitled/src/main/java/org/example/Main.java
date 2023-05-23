@@ -1,11 +1,12 @@
 package org.example;
 
 import org.example.lv0.Remain;
+import org.example.lv0.Triangle;
 
 public class Main {
     public static void main(String[] args) {
 
-        Remain re = new Remain();
-        System.out.printf("정답 : " + re.solution(2, 4));
+
+        System.out.print("정답 : " );
     }
 }
